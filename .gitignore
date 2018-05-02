@@ -1,0 +1,7 @@
+detect.py
+training-data
+test-data
+output
+faces-data
+venv
+__pycache__
