@@ -5,3 +5,5 @@ output
 faces-data
 venv
 __pycache__
+images-to-process
+processed-images

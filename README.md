@@ -19,7 +19,10 @@
 4. The program closes if there are no images left in the `images-to-process` folder.
 
 ## Preview
+![Preview](./preview.png)
 
+## Demo
+![Demo Gif](./demo.gif)
 
 ## Licence
 MIT
